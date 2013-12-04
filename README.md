@@ -2,6 +2,8 @@
 
 ---
 
+###v1.0.6 - downgrade JQuery dependency so it'll work in ie8
+
 ###v1.0.5 - breaking change
 Do not pass evaluated expressions in callbacks. For example, 
 ####Before:
