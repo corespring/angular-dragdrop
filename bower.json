@@ -16,7 +16,7 @@
     "package.json"
   ],
   "dependencies": {
-    "angular": "1.2.3",
+    "angular": "~1.2.8",
     "jquery": "1.10.2",
     "jquery-ui": "latest"
   },
